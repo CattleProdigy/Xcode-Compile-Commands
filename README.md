@@ -1,4 +1,4 @@
-#XCode Compile Commands
+# XCode Compile Commands
 
 This is a WIP. The goal of this project is provide `compile_commands.json` output for XCode-only projects and workspaces (i.e. those not using using CMake or other tools). This is useful for those who wish to use syntax checking or code completion outside of xcode (e.g. with vim).
 
